@@ -1,0 +1,16 @@
+# 敏感数据，绝对不能传
+数据/credentials.clixml
+数据/credentials.clixml.tmp
+数据/state.json
+数据/runner.json
+数据/worker.lock
+数据/运行日志.log
+数据/运行日志.log.1
+需要更新设置.txt
+
+# 测试目录
+测试/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
